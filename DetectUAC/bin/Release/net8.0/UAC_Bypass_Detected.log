@@ -1,0 +1,4 @@
+2026-05-08 00:07:30 | UAC BYPASS | Child: notepad.exe (PID:17708) | ParentPID:12728 | CMD: C:\Windows\System32\notepad.exe
+2026-05-08 00:11:03 | UAC BYPASS DETECTED | Child: stager.exe (PID:31136) | ParentPID:13128 | CMD: D:\hi\stager.exe
+2026-05-08 00:18:21 | UAC BYPASS DETECTED | Child: hihi.exe (PID:29208) | ParentPID:10704 | CMD: D:\hi\hihi.exe
+2026-05-08 00:19:59 | UAC BYPASS DETECTED + KILLED | Child: hihi.exe (PID:15440) | ParentPID:14080 | CMD: D:\hi\hihi.exe
